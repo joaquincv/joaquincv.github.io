@@ -1,0 +1,6 @@
+.flex-container {display: flex}
+
+.flex-container > div {height: 300px; width: 250px; background-color: #f00; margin: 5px;
+font-size: 30px; color: #fff;}
+
+#dos {background-color: #000;}
